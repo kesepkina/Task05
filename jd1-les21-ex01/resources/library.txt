@@ -1,0 +1,3 @@
+1 _|_ Java, OOP _|_ Effective Java _|_ Ekkel
+2 _|_ Java _|_ Java Head First _|_ Kathy Sierra, Bert Bates
+3 _|_ OOP _|_ Design Patterns _|_ Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides

@@ -1,0 +1,6 @@
+package by.itacademy.mhl.controller;
+
+public enum CommandName {
+	LOGINATION, REGISTRATION, EDITING, ADDING, ALLCATALOGUE, FINDBYAUTHOR, FINDBYCATEGORY, DELETENOTE, NO_SUCH_COMMAND;
+
+}
